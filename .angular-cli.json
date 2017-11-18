@@ -7,6 +7,10 @@
     {
       "root": "src",
       "outDir": "dist",
+	  "styles": [
+		"styles.css",
+		"../node_modules/bootstrap/dist/css/bootstrap.min.css"
+		],
       "assets": [
         "assets",
         "favicon.ico"
